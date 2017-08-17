@@ -1,0 +1,4 @@
+---
+applications:
+- name: echo
+  command: node app/server.js
